@@ -1,3 +1,5 @@
+#This is a new and revised message. And below is an ignore file for Python
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
